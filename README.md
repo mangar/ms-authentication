@@ -6,7 +6,7 @@
 __Create__
 
 ```
-docker build -t ms-authentication:0.1 .
+docker build -t mangar/ms-authentication:0.1 .
 ```
 
 
